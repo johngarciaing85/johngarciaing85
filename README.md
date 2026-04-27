@@ -70,7 +70,7 @@ Built internal automation and web systems for logistics operations:
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-garcia-cely)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/john-garcia-cely](www.linkedin.com/in/john-garcía-cely)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:johngarciaing85@gmail.com)
 
 ---
