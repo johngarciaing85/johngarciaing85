@@ -6,7 +6,7 @@ I build real systems — e-commerce platforms, logistics automation tools, and m
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,7 +33,7 @@ I build real systems — e-commerce platforms, logistics automation tools, and m
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [JD Sport — E-commerce Platform](https://github.com/johngarciaing85/jd-sport-backend)
 Full-stack e-commerce for a sportswear store in Medellín.
@@ -50,7 +50,7 @@ Startup connecting hikers with verified local guides and agencies in Antioquia, 
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 **Prebel S.A.** *(Colombia's leading cosmetics company)* — IT Intern  
 Built internal automation and web systems for logistics operations:
@@ -61,14 +61,14 @@ Built internal automation and web systems for logistics operations:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngarciaing85&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngarciaing85&layout=compact&hide_border=true&theme=default)
 
 ---
 
-## 📫 Contact
+##  Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-garcia-cely)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:johngarciaing85@gmail.com)
