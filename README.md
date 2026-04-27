@@ -75,4 +75,4 @@ Built internal automation and web systems for logistics operations:
 
 ---
 
-*Open to Backend Developer and Data Engineer Junior roles — remote or Medellín.*
+*Open to Backend Developer and Data Engineer Junior roles — remote or Medellín.*    
