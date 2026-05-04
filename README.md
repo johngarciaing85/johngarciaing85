@@ -1,6 +1,6 @@
 # Hi, I'm John García 👋
 
-**Backend Developer** based in Medellín, Colombia 🇨🇴
+**Backend Developer** based in Medellín, Colombia
 
 I build real systems — e-commerce platforms, logistics automation tools, and marketplace startups. I care about clean architecture, production-ready code, and solving actual business problems.
 
