@@ -29,6 +29,7 @@ I build real systems — e-commerce platforms, logistics automation tools, and m
 **Data & Automation**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 
 ---
@@ -50,9 +51,39 @@ Startup connecting hikers with verified local guides and agencies in Antioquia, 
 
 ---
 
+##  Pipelines & Automation
+
+Production data pipelines and automation systems built at **Prebel S.A.** for logistics operations *(internal / proprietary — source code not public)*.
+
+### SAP Inventory Extraction & Dashboard
+End-to-end pipeline turning raw SAP data into an operations dashboard.
+- Python extractors for SAP transactions **ZWM53** and **MM60**
+- Data processor handling cleaning and date/numeric normalization, exposed through a **FastAPI** router
+- Interactive **ECharts** dashboard for the inventory module
+- **Stack:** `Python` `Pandas` `FastAPI` `SAP` `ECharts`
+
+### SAP LT23 Picking Productivity Pipeline
+Daily automation for warehouse picking KPIs that replaced a manual reporting process.
+- **VBScript** drives the SAP GUI extraction (LT23); **Python** transforms the data and writes to a shared Excel master
+- Feeds picking-productivity metrics consumed by operations
+- **Stack:** `Python` `VBScript` `Pandas` `Excel` `SAP`
+
+### ETL Web Scraping Pipeline
+End-to-end web data extraction for recurring operational reports.
+- **Selenium** scraping → **Pandas** transformation → **Openpyxl** load → **Power BI** consumption
+- Eliminated repetitive manual report building
+- **Stack:** `Python` `Selenium` `Pandas` `Power BI`
+
+### AI Executive Analysis Module
+LLM-powered summary layer over the SAT logistics system.
+- Integrated **Groq (Llama)** to auto-generate executive insights from operational data
+- **Stack:** `Python` `FastAPI` `Groq` `LLM`
+
+---
+
 ##  Work Experience
 
-**Prebel S.A.** *(Colombia's leading cosmetics company)* — IT Intern  
+**Prebel S.A.** *(Colombia's leading cosmetics company)* — IT Intern
 Built internal automation and web systems for logistics operations:
 - Migrated SAT (Carrier Automation System) from Flask → FastAPI with modular architecture
 - Developed Devoluciones_Web: 9-state workflow system with JWT + RBAC, handling 100K+ invoice records
@@ -71,8 +102,8 @@ Built internal automation and web systems for logistics operations:
 ##  Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-garcia-cely)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](www.linkedin.com/in/john-garcía-cely)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:johngarciaing85@gmail.com)
 
 ---
 
-*Open to Backend Developer and Data Engineer Junior roles — remote or Medellín.*    
+*Open to Backend Developer and Data Engineer Junior roles — remote or Medellín.*
